@@ -1,0 +1,10 @@
+Package: com.insanj.omnifast
+Name: OmniFast
+Depends: mobilesubstrate, libactivator
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Create OmniFocus tasks on the fly.
+Maintainer: insanj <insanjmail@insanj.com>
+Author: Julian (insanj) Weiss
+Section: Tweaks
+Icon: file:///Library/Activator/Listeners/libactivator.OmniFast/Icon-small@2x.png
