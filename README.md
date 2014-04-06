@@ -2,6 +2,8 @@
 
 Create OmniFocus tasks from Activator. [Made on request](https://twitter.com/joshlgibson/status/452929640726679552).
 
+![](screenie.png)
+
 ---------------------------------------
 [Creative Commons Attribution-NonCommercial 3.0 United States License](http://creativecommons.org/licenses/by-nc/3.0/us/) as of 2014:
 
